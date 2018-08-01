@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="{{ asset('images/favicon-32x32.png')}}">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <title>
-    Lenbo, le prêt entre particuliers, simple et sécurisé
+    Lenbo, le prêt de confiance entre amis et famille
     </title>
     
     <!-- CSRF Token -->
