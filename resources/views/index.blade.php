@@ -11,8 +11,8 @@
       <div class="background">
 
 
-        <h1 class="title">Le prêt de confiance</h1>
-        <h2>Vos prêts entre proches<br/> en toute sérénité</h2>
+        <h1 class="title">Le prêt de confiance entre amis et famille</h1>
+        <h2>Simulations, demande, conclusion et gestion de vos prêts en toute simplicité</h2>
 
         <div class="buttons d-flex justify-content-left py-5">
           <a class="btn btn-primary btn-round btn-lg" href="{{ route('ious-new') }}"  aria-haspopup="true" aria-expanded="false">Commencer</a>
