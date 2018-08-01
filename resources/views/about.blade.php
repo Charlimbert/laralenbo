@@ -19,23 +19,7 @@
             <div class="panel-group" id="accordion" aria-multiselectable="true" aria-expanded="true">
 
 
-              <div class="card-header card-collapse" role="tab" id="headingOne">
-                <h5 class="mb-0 panel-title">
-                  <a class="" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                    Pourquoi le système bancaire traditionnel marche sur la tête ?
-                    <i class="nc-icon nc-minimal-down"></i>
-                  </a>
-                </h5>
-              </div>
-              <div id="collapseOne" class="collapse show" role="tabpanel" aria-labelledby="headingOne" aria-expanded="true">
-                <div class="card-body">
-                  <p>Savez-vous quelle est la proportion de la population exclue du crédit ? Plus d’un quart ! Pourquoi ? Parce que les banques utilisent des modèles dépassés pour évaluer le risque des emprunteurs et décider d’accorder ou non un crédit. Ces modèles éliminent notamment la plupart des CDD (95% des embauches), les jeunes diplômés, les entrepreneurs, les indépendants, les retraités.</p>
-                  <p>Pour les demandeurs, la démarche ressemble d’ailleurs à un vrai parcours du combattant et la seule liste des documents à fournir (salaires, contrat de travail, attestation d’allocations, avis d’imposition, justificatif de domicile, contrat de mariage, attestation d’URSSAF, etc.) suffit souvent à éliminer nombre de ménages qui pourraient pourtant tout à fait rembourser un crédit.</p>
-                  <p>La fondation Crésus, pionnière et référente dans l’accompagnement des populations financièrement fragiles, estime à plus d’un million le nombre de ménages français solvables qui ne parviennent pas à financer leur projet auprès des banques. Ajoutons-y les nombreux ménages qui préfèrent renoncer à leurs projets plutôt que verser des intérêts exorbitants, et précisons également que seuls 40% des français font confiance au système bancaire. Et maintenant voyons voir : connaissez-vous d’autres acteurs (que les banques et leurs filiales de crédit à la consommation) qui accordent des crédits aux ménages ? Non ? C’est normal ! Car les banques bénéficient d’un monopole bancaire, oui-oui, on a bien dit « monopole ». Seules les banques sont habilitées à fournir des crédits aux ménages.</p>
-                  <p>Une dernière chose achève de nous révolter. Si les banques jouissent d’un monopole mais qu’elles privent de nombreux ménages de crédit, nous serions prêts à leur pardonner un certain manque de modernité qui les conduit à être trop prudentes. Pas facile de transformer de si grosses machines. Seulement voilà : chaque année, 200 000 ménages tombent dans le surendettement avec parfois 8, 10 voire 15 crédits accordées par diverses institutions.</p>
-                  <p>« Vous trouvez ça absurde ? Nous aussi. » (Comme le dit si bien une fameuse société de crédit à la consommation dans ses spots publicitaires)</p>
-                </div>
-              </div>
+         
 
               <div class="card-header card-collapse" role="tab" id="headingTwo">
                 <h5 class="mb-0 panel-title">
@@ -49,7 +33,7 @@
                 <div class="card-body">
                   <p>D’abord parce que cette pratique remonte à la nuit des temps. Lenbo est la contraction des termes « prêter » et « emprunter » en anglais (lend et borrow) précisément parce que le prêt de proximité est à l’origine même de toute notion de finance. Lenbo est un retour aux sources.</p>
                   <p>Ensuite, parce que, bien que totalement invisible, le prêt de proximité est une pratique assez courante. 3 français sur 4 ont déjà prêté de l’argent à un proche, dont plus de la moitié fréquemment, et 1 sur 2 a déjà emprunté dans son entourage. Cette fréquence s’explique par la simplicité apparente de ce genre de prêt en comparaison des prêts bancaires, l’absence le plus souvent de taux d’intérêt, la rapidité d’obtention (pas de dossier de crédit à faire, un seul décisionnaire) et la flexibilité de remboursement.</p>
-                  <p>Enfin, parce qu’au regard des contraintes précédemment évoquées concernant le crédit bancaire, le prêt entre amis, parents ou autres connaissances est la seule véritable alternative au crédit conso traditionnel.</p>
+                  <p>Enfin, parce qu’au regard des contraintes et des limites du crédit bancaire, le prêt entre amis, parents ou autres connaissances est la seule véritable alternative au crédit conso traditionnel.</p>
                 </div>
               </div>
 
@@ -63,7 +47,7 @@
               </div>
               <div id="collapseThree" class="collapse show" role="tabpanel" aria-labelledby="headingThree aria-expanded="true">
                 <div class="card-body">
-                    <p>Simplicité apparente oui, mais trompeuse. Tous les prêts de proximité ne se terminent pas toujours bien. En cause ? Un manque d’attention portée à la définition des conditions de remboursement, à la formalisation du prêt, aux restrictions réglementaires et aux formalités administratives. Et le fait est que malgré un cadre relativement ténu, les particuliers sont abandonnés à leur propre sort pour conclure ces transactions. Les solutions d’accompagnement disponibles sont d’un autre temps, coûteuses, incertaines ou incomplètes.</p>
+                    <p>Tous les prêts de proximité ne se déroulent pas toujours bien. En cause ? Un manque d’attention portée à la définition des conditions de remboursement, à la formalisation du prêt, aux restrictions réglementaires et aux formalités administratives. Et le fait est que malgré un cadre relativement ténu, les particuliers sont abandonnés à leur propre sort pour conclure ces transactions. Les solutions d’accompagnement disponibles sont d’un autre temps, coûteuses, incertaines ou incomplètes.</p>
 
                     <p>Précisons d’abord très brièvement le cadre :</p>
                     <ul>
@@ -98,26 +82,7 @@
                 </div>
               </div>
 
-              <div class="card-header card-collapse" role="tab" id="headingFive">
-                <h5 class="mb-0 panel-title">
-                    <a class="" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="true" aria-controls="collapseFive">
-                      En quoi consiste notre service de conclusion de prêt ?
-                      <i class="nc-icon nc-minimal-down"></i>
-                    </a>
-                </h5>
-              </div>
-              <div id="collapseFive" class="collapse show" role="tabpanel" aria-labelledby="headingFive aria-expanded="true">
-                <div class="card-body">
-                  <p>Lenbo permet de conclure un prêt entre proche de manière sereine et transparente :</p>
-                  <ul>
-                    <li>Formulation de la demande de prêt et de ses conditions en 2 minutes, avec échéancier et reconnaissance de dette ;</li>
-                    <li>Accord de prêt sécurisé en ligne et finalisation de la reconnaissance de dette personnalisée entre le prêteur et l’emprunteur ;</li>
-                    <li>Rappels automatiques aux échéances et rapport de suivi du prêt ;</li>
-                    <li>Modifications du prêt lors de remboursements anticipés à la main de l’emprunteur ou en cas de délais supplémentaires accordés par le prêteur.</li>
-                  </ul>
-                  <p>Nous mettons également à votre disposition un outil d’évaluation des capacités de remboursement.</p>
-                </div>
-              </div>
+      
 
               <div class="card-header card-collapse" role="tab" id="headingSix">
                 <h5 class="mb-0 panel-title">
