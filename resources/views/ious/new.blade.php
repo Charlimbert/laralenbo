@@ -30,8 +30,7 @@
                       <i class="nc-icon nc-layout-11"></i>
                     </div>
                     <div class="description">
-                      <h4 class="info-title">Quel prêt?</h4>
-                      <p>De combien vous avez besoin et comment vous pouvez rembouser</p>
+                      <h4 class="info-title">Définissez votre prêt</h4>
                     </div>
                   </div>
                   <div class="info info-horizontal">
@@ -39,7 +38,7 @@
                       <i class="nc-icon nc-palette"></i>
                     </div>
                     <div class="description">
-                      <h4 class="info-title">On prépare les documents</h4></p>
+                      <h4 class="info-title">Accédez à votre simulation</h4></p>
 
                     </div>
                   </div>
@@ -51,8 +50,7 @@
                       <i class="nc-icon nc-delivery-fast"></i>
                     </div>
                     <div class="description">
-                      <h4 class="info-title">Envoi</h4>
-                      <p>Tout est prêt. Vous n'avez plus qu'à envoyer votre demande de prêt.</p>
+                      <h4 class="info-title">Partagez votre demande</h4>
                       
                     </div>
                   </div>
@@ -61,8 +59,7 @@
                       <i class="nc-icon nc-touch-id"></i>
                     </div>
                     <div class="description">
-                      <h4 class="info-title">Ca y est!</h4>
-                      <p>Le prêteur a accepté votre demande de prêt. Vous pouvez maintenant patati patata</p>
+                      <h4 class="info-title">Prêt accepté !</h4>
                       
                     </div>
                   </div>
@@ -97,9 +94,9 @@
 
                 <div class="form-group row">
 
-                  <label for="subject" class="col-sm-4 form-control-label">Pour</label>
+                  <label for="subject" class="col-sm-4 form-control-label">Pour financer</label>
                   <div class="col-sm-8">
-                    <input class="form-control" id="subject" placeholder="Ex: passer le permis" type="text">
+                    <input class="form-control" id="subject" placeholder="Ex: mon permis de conduire" type="text">
                   </div>
                   
                 </div>
@@ -108,7 +105,7 @@
                 <div id="settings">
 
                   <div class="form-group row">
-
+{{-- je rembourse : librement ou mensuellement. si librement je sélectionne la deadline, si mensuellement je tape le montant des mensualités et la durée en mois se remplit automatiquement--}}
                     <label for="repayment_repeat" class="col-sm-4 form-control-label">Je rembourse</label>
                     <div class="col-sm-8">
                       
